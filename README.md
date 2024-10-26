@@ -3,11 +3,12 @@ the Q vs F problem
 
 Can a COMPUTATIONAL DEVICE (aka a digital Cynthos) detect if a point particle is a QUEEF or a FART?
 
+DEFINITIONS:
 
 QUEEF: if the jet is exiting a large cavity through a small and thin oriﬁce, a spherical symmetry is expected
 
 
-FART: If the jet is coming out of a long cylindrical tube, one expects an axially symmetric ﬂow, and 
+FART: If the jet is coming out of a long cylindrical tube, one expects an axially symmetric ﬂow
 
 
 ![Screenshot 2024-10-26 at 16 44 54](https://github.com/user-attachments/assets/6db6f46f-94f2-4212-82d9-ed7a75e207b5)
