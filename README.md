@@ -11,6 +11,11 @@ QUEEF: if the jet is exiting a large cavity through a small and thin oriﬁce, a
 FART: If the jet is coming out of a long cylindrical tube, one expects an axially symmetric ﬂow
 
 
+(defintions from *Synthetic Jets* by Kamran Mohseni and Rajat Mittal)
+
+
+Relevant Mathematics:
+
 ![Screenshot 2024-10-26 at 16 44 54](https://github.com/user-attachments/assets/6db6f46f-94f2-4212-82d9-ed7a75e207b5)
 
 
